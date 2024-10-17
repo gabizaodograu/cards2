@@ -47,3 +47,12 @@ display: flex;
     font-size: 1vw;
     
 }
+body {
+    background: url('img/bg-desktop.webp');
+    font-family: Bai Jamjuree;
+}
+:root {
+    --text-color: #DBE4EF;
+    --card-front-color: #144480;
+    --card-back-color: #00F4BF;
+}
